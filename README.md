@@ -1,5 +1,4 @@
 # AigerTest
-AigerTest
 Виджет для Aiger Panel 
 Установить в деректорию cd /App/
 # Воозможные настройки:
